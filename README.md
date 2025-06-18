@@ -23,7 +23,7 @@
 
 ## DESARROLLO
 
-### PARTE I: Strategy Design Pattern 
+### PARTE I: Strategy Design Patterns 
 
 ![image](https://github.com/UPT-FAING-EPIS/SI889_PDS/assets/10199939/21cf440e-8156-498c-afd7-95c066ffaa93)
 En la imagen Steve compra un monitor y una lavadora, pero a la hora de acercarse a la ventanilla existen tres formas de pagar: Tarjeta de Crédito, Tarjeta de Débito y Efectivo.
